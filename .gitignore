@@ -13,6 +13,8 @@ node_modules/
 /build
 
 # misc
+/.vscode
+.vscode
 .env
 .DS_Store
 .env.local
